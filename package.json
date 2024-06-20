@@ -1,11 +1,11 @@
 {
-  "name": "mobileapp",
+  "name": "mobile-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/MobileApp/",
+    "build": "vite build --base=/mobile-app/",
     "preview": "vite preview"
   },
   "devDependencies": {
