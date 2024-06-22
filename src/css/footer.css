@@ -105,10 +105,16 @@
   margin-bottom: 14px;
 }
 
-.footer-sociale-info {
+.footer-sociale-item {
+  display: flex;
+  justify-content: center;
   padding: 20px 20px;
   border-radius: 50%;
   background-image: var(--linear-bg);
+}
+
+.footer-sociale-info {
+  display: flex;
 }
 
 .footer-contact {
